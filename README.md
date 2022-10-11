@@ -1,6 +1,10 @@
 # ATAR WACE Archive - the largest archive of past papers.
 Reuploading dead site because scsa doodoo...
 SCSA issued a takedown request to the original site owner. The site has now been reuploaded to preserve access to the papers. 
+
+ORIGINAL SITE: (removed)
+atar-wace-archive.github.io
+
 ### CLICK HERE TO ACCESS THE ARCHIVE:
 ### http://fuckscsa.github.io
 Please read the notice on the website.
