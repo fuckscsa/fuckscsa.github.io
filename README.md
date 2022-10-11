@@ -2,7 +2,7 @@
 Reuploading dead site because scsa doodoo...
 SCSA issued a takedown request to the original site owner. The site has now been reuploaded to preserve access to the papers. 
 ### CLICK HERE TO ACCESS THE ARCHIVE:
-### http://atar-wace-archive.github.io
+### http://fuckscsa.github.io
 Please read the notice on the website.
 
 Archive of past WACE/ATAR course exams and papers.
